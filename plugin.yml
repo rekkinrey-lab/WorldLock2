@@ -1,0 +1,5 @@
+name: WorldLock
+version: ${project.version}
+main: dev.worldlock.WorldLock
+api-version: '1.21'
+description: Blocks block-breaking in one world and teleports players to a fixed point on every join.
